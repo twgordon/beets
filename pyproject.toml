@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "beets"
-version = "2.2.0-fork-rgalb"
+version = "2.2.0+rgalb"
 description = "music tagger and library organizer"
 authors = ["Adrian Sampson <adrian@radbox.org>"]
 maintainers = ["Serene-Arc"]
